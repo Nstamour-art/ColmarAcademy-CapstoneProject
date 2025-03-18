@@ -2,6 +2,10 @@
 
 This repository contains the **Colmar Academy** capstone project, created as part of Codecademy's **Build a Website with HTML, CSS, and GitHub** course. The project demonstrates the application of foundational web development skills to build a responsive and visually appealing website.
 
+-   Based on this design brief: https://content.codecademy.com/courses/freelance-1/capstone-2/colmar-academy-spec.png
+
+-   Site Link: https://nstamour-art.github.io/ColmarAcademy-CapstoneProject/
+
 ## Features
 
 -   **Responsive Design**: The website is optimized for various screen sizes, ensuring a seamless user experience on desktops, tablets, and mobile devices.
