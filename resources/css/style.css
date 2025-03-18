@@ -1,0 +1,9 @@
+/* CSS Reset */
+/* This is a simple CSS reset to remove default browser styles */
+/* and ensure consistent styling across different browsers */
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
